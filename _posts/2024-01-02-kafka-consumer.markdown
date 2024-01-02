@@ -74,3 +74,6 @@ If the heartbeat is not sent to the coordinator (broker) within the timeout peri
 * [https://www.baeldung.com/kafka-topics-partitions](https://www.baeldung.com/kafka-topics-partitions)
 * [https://stackoverflow.com/questions/38024514/understanding-kafka-topics-and-partitions](https://stackoverflow.com/questions/38024514/understanding-kafka-topics-and-partitions)
 * [https://www.google.com/search?q=what+is+kafka](https://www.google.com/search?q=what+is+kafka)
+* [https://www.baeldung.com/java-kafka-bootstrap-server](https://www.baeldung.com/java-kafka-bootstrap-server)
+* [https://docs.confluent.io/kafka-clients/python/current/overview.html#python-installation](https://docs.confluent.io/kafka-clients/python/current/overview.html#python-installation)
+
